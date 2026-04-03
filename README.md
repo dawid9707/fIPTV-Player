@@ -24,7 +24,7 @@
 <table border="0">
   <tr>
     <td>
-      <img src="https://github.com/dawid9707/fIPTV-Player/blob/main/assests/import.png" width="100%" alt="Widok kanałów" />
+             <img src="https://github.com/dawid9707/f-IPTV-Player/blob/main/assests/bar.png" width="100%" alt="Widok kanałów" />
     </td>
     <td>
       <img src="https://github.com/dawid9707/fIPTV-Player/blob/main/assests/settings.png" width="100%" alt="Widok kanałów" />
@@ -38,6 +38,11 @@
       <img src="https://github.com/dawid9707/fIPTV-Player/blob/main/assests/channels.png" width="100%" alt="Widok kanałów" />
     </td>
   </tr>
+   <tr>    
+      <td>
+      <img src="https://github.com/dawid9707/fIPTV-Player/blob/main/assests/import.png" width="100%" alt="Widok kanałów" />
+      </td>
+   </tr>
 </table>
 
 ## 🚀 Instalacja i uruchomienie
